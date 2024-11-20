@@ -1,4 +1,6 @@
 # Bandit-Algorithm-in-Chemistry
 Original datasets, code, and collected data
 - Original datasets are collected by the Doyle Group
-- Most of the code originated from the Doyle's Group (can be found on GitHub) with modification done to expand the scope / algorithm explored. The code uploaded to this repository are code that I used to run all related programs.
+- In the Collected Data folder, some of the data are collected by the Doyle Group and some PPF related data are newly collected by myself
+- Test Scenario 1 and 2 data are all newly collected by myself
+- Most of the code originated from the Doyle's Group. Modifications are done to expand the scope of parameters tested and the variations of algorithms explored.
